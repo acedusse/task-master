@@ -29,11 +29,6 @@ Teamwork is currently transitioning from a CLI-based tool to a full UI applicati
 - **WCAG 2.1 AA compliant** design with an earth-tone color palette
 - **Optimized for desktop use** with comprehensive workflows for PRD upload, task management, and sprint creation
 
-The transition maintains all the power of CLI commands while providing a visual, intuitive interface designed for three user personas:
-- Senior Developers (Alex)
-- DevOps Engineers (Samira)
-- Junior Developers (Jordan)
-
 ## Requirements
 
 Teamwork utilizes AI across several commands, and those require a separate API key. You can use a variety of models from different AI providers provided you add your API keys. For example, if you want to use Claude 3.7, you'll need an Anthropic API key.
